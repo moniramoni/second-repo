@@ -1,12 +1,23 @@
 h1{
-    color: aqua;
-    background-color: rgb(43, 39, 39);
+    color: #d3cd76;
+    background-color:#dfeff165 ;
     font-size: 50px;
     font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 50px 50px;
+    margin: 0;
 }
 p{
-    color: rgb(15, 15, 15);
-    background-color: rgb(213, 232, 241);
-    font-size: 20px;
-    font-family: 'Times New Roman', Times, serif; 
+    color: rgb(71, 78, 74);
+    background-color:#dfeff165 ;
+    font-size: 18px;
+    padding: 30px;
+    margin: 0;
+    color-adjust:#d1eaee65 ;
+    text-align: center;
+
+}
+
+img{
+    padding: 0px 0px 0px 100px;
 }
