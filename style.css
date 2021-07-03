@@ -2,5 +2,11 @@ h1{
     color: aqua;
     background-color: rgb(43, 39, 39);
     font-size: 50px;
-    
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    color: rgb(15, 15, 15);
+    background-color: rgb(213, 232, 241);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif; 
 }
